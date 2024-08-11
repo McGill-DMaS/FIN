@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Briefly describe what your project does, its goals, and any relevant background information.
+This repository hosts the tool developed for the FIN paper, designed to construct a ground truth inlining dataset. The tool analyzes and compares the debug information of two ELF binaries to identify function calls from the first binary that have been inlined into the second binary.
 
 ## Citation
 
