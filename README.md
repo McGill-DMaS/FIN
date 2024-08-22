@@ -40,7 +40,7 @@ After installing Poetry, follow these steps to set up the project:
 
 1. Clone the repository:
     ```bash
-    git clone [<repository-url>](https://github.com/McGill-DMaS/FIN.git)
+    git clone https://github.com/McGill-DMaS/FIN.git
     cd FIN/
     ```
 2. Setup the project:
