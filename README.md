@@ -15,8 +15,10 @@ python setup.py
 ```
 
 ## Usage
-
-
+To detect function inlining, you need two ELF files of the same program, but compiled with different optimization levels or compilers for comparison. Then, you can then run the following command, where `-o` specifies the path to the original binary file (from which function calls are extracted), and `-t` specifies the target binary file (in which inlined function calls are identified).
+```bash
+python fin.py -o /path/to/the/original/binary -t /path/to/the/target/binary
+```
 
 ## Disclaimer
 
