@@ -51,7 +51,7 @@ After installing Poetry, follow these steps to set up the project:
 ## Usage
 To detect function inlining, you need two ELF files of the same program, but compiled with different optimization levels or compilers for comparison. Then, you can then run the following command, where `-o` specifies the path to the original binary file (from which function calls are extracted), and `-t` specifies the target binary file (in which inlined function calls are identified).
 ```bash
-python fin.py -o <path-to-original-binary> -t <path-to-target-binary>
+python fin.py --ida <path-to-IDA-Pro> -o <path-to-original-binary> -t <path-to-target-binary>
 ```
 
 ## Disclaimer
