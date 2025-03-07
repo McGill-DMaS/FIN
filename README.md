@@ -1,4 +1,4 @@
-# FIN: Function Inlining Neutralizer
+# FIN: Function Inlining Normalizer
 
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
 
