@@ -63,16 +63,17 @@ The software is provided as-is with no warranty or support. We do not take any r
 If you use this code, please cite the following paper:
 
 ```bibtex
-@article{yourlastname2024,
-  title={Your Paper Title},
-  author={YourLastName, FirstName and CoAuthorLastName, CoAuthorFirstName},
-  journal={Journal Name},
-  year={2024},
-  volume={XX},
-  number={YY},
-  pages={ZZZ-AAA},
-  doi={Your DOI},
-  url={https://yourpaperlink}
+@article{AMOUEI2026112603,
+title = {{FIN: Boosting binary code embedding by normalizing function inlinings}},
+journal = {Journal of Systems and Software},
+volume = {231},
+pages = {112603},
+year = {2026},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2025.112603},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121225002729},
+author = {Mohammadhossein Amouei and Benjamin C.M. Fung and Philippe Charland},
+keywords = {Binary code, Similarity detection, Function inlining, Control flow graph, Random forest},
 }
 
 
