@@ -62,6 +62,8 @@ The software is provided as-is with no warranty or support. We do not take any r
 
 If you use this code, please cite the following paper:
 
+M. Amouei, B. C. M. Fung, and P. Charland. FIN: boosting binary code embedding by normalizing function inlinings. Journal of Systems and Software (JSS), 231(112603):1-20, January 2026. Elsevier. 
+
 ```bibtex
 @article{AMOUEI2026112603,
 title = {{FIN: Boosting binary code embedding by normalizing function inlinings}},
